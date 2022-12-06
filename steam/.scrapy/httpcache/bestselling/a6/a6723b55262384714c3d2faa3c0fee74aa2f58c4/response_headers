@@ -1,0 +1,4 @@
+Server: nginx
+Content-Type: text/html
+Location: https://store.steampowered.com/search/?filter=topsellers/
+Date: Sun, 04 Dec 2022 08:00:51 GMT
